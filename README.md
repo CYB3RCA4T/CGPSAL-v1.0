@@ -68,9 +68,6 @@ Strong protections against fake "official" forks, fraudulent commercial claims, 
 
 ## How to Use
 
-### For CYB3RCA4T Projects
-Drop `LICENSE-PRIVATE.md` into your repository root as `LICENSE`. It's already pre-filled.
-
 ### For Other Developers
 1. Copy `LICENSE-PUBLIC.md` into your repository as `LICENSE`
 2. Replace all `[PLACEHOLDERS]` with your actual information
