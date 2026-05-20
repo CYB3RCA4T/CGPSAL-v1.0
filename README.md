@@ -58,7 +58,6 @@ Strong protections against fake "official" forks, fraudulent commercial claims, 
 
 | File | Purpose |
 |------|---------|
-| `LICENSE-PRIVATE.md` | Pre-filled license template for CYB3RCA4T projects. Ready to drop into any repo. |
 | `LICENSE-PUBLIC.md` | Parameterized template for other developers who want to adopt this license. Replace `[COPYRIGHT HOLDER]`, `[YEAR]`, `[REPOSITORY URL]`, and `[JURISDICTION]`. |
 | `SIGNING.md` | Code signing certificate details and verification instructions. Template with example included. |
 | `LICENSE-GRANTED.md` | Public record of commercial permissions granted. Template with example included. |
