@@ -72,6 +72,11 @@ Representative does not have the right to grant licenses, modify this
 license, or transfer rights — those powers remain exclusively with
 [COPYRIGHT HOLDER].
 
+**"Commercial Licensing Action"** means any legally binding grant of
+commercial rights, contract negotiation, settlement agreement, or
+modification of license terms beyond filling in designated placeholder
+fields.
+
 **"Commercial Distribution"** means Public Distribution where access,
 acquisition, or use of the Software directly or indirectly generates
 revenue tied to the Software itself.
@@ -81,6 +86,21 @@ itself is the product being sold, or where access to functionality
 powered by the Software requires payment. Internal use by a for-profit
 company, advertising-funded services, and voluntary donation-funded
 services are not considered Commercial Use under this license.
+
+**"Joint Consent Model"** means that where the copyright holder lacks
+full legal capacity, any Commercial Licensing Action requires the joint
+consent of the copyright holder and their Authorized Representative
+(Legal Guardian). A Commercial Licensing Action taken without such
+joint consent is not binding. Upon the copyright holder obtaining
+full legal capacity, all rights vest in the copyright holder
+automatically, and the Authorized Representative is no longer required
+for any purpose under this license.
+
+**"License Adoption"** means the act of adopting this license for a
+Software project by including the license file in the repository.
+Any individual, regardless of age or legal capacity, may adopt this
+license. License Adoption is a unilateral declaration of terms and
+does not require legal capacity or guardian consent.
 
 ---
 
@@ -538,14 +558,14 @@ the Software into unrelated projects.
 ## Rights Holder
 
 Rights under this license are held by [COPYRIGHT HOLDER]
-([REPOSITORY URL]). Where [COPYRIGHT HOLDER] is represented by a
-legal guardian or Authorized Representative, that person may
-represent [COPYRIGHT HOLDER] within the limits defined in the
-Authorized Representative definition above. If [COPYRIGHT HOLDER]
-lacks full legal capacity under applicable law, commercial licenses
-require countersignature by [COPYRIGHT HOLDER]'s legal guardian to
-be binding. Upon [COPYRIGHT HOLDER] obtaining full legal capacity,
-all rights vest in [COPYRIGHT HOLDER] automatically.
+([REPOSITORY URL]). Any individual may adopt this license through
+License Adoption as defined above. Where [COPYRIGHT HOLDER] lacks
+full legal capacity under applicable law, any Commercial Licensing
+Action requires the joint consent of [COPYRIGHT HOLDER] and their
+Authorized Representative (Legal Guardian). A Commercial Licensing
+Action taken without such joint consent is not binding. Upon
+[COPYRIGHT HOLDER] obtaining full legal capacity, all rights vest
+in [COPYRIGHT HOLDER] automatically.
 
 ---
 
