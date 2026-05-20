@@ -400,6 +400,29 @@ choose to follow either the version specified or any later version
 published by [COPYRIGHT HOLDER]. Otherwise, you must follow the
 version included with the Software.
 
+#### License Contribution
+
+The official CGPSAL repository is located at
+https://github.com/CYB3RCA4T/CGPSAL-v1.0. This is the authoritative
+source for the latest version of the license framework.
+
+Forking the license framework repository for the sole purpose of
+strengthening, improving, or proposing enhancements to the license
+text is permitted. Such forks must be submitted as contributions
+(Pull Requests) to the official repository. Modified versions of
+the license framework may be published under a different name,
+provided they are not represented as official versions of the CGPSAL.
+
+Forking or modifying the license text within an existing software
+project is not permitted. The license file included in a software
+project may only be modified to fill in the designated placeholder
+fields. Any other modification to the license text in a software
+project constitutes a violation of this license.
+
+Only CYB3RCA4T may publish versions under the name "CYB3RCA4T's
+General Purpose Source Available License" or any substantially
+similar name.
+
 Reproduction of this license text as required by its terms is expressly
 permitted.
 
