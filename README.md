@@ -89,8 +89,6 @@ This license framework is authored by CYB3RCA4T. New versions may only be publis
 
 **SPDX Identifier:** `LicenseRef-CYB3RCA4T-GPSAL-1.0`
 
-**Governing Law:** Hungary (for CYB3RCA4T projects)
-
 ---
 
 *CYB3RCA4T's General Purpose Source Available License v1.0*
