@@ -1,5 +1,10 @@
 ~~SPDX-License-Identifier: LicenseRef-CYB3RCA4T-GPSAL-1.0~~ **CURRENTLY NOT IN SPDX**
 
+© 2026 CYB3RCA4T. This license text may be copied and distributed
+unmodified for the purpose of adopting it in software projects.
+Filling in designated placeholders is permitted. No other
+modifications are allowed, unless specified in Section 8.
+
 # CYB3RCA4T's General Purpose Source Available License
 ## Version 1.0
 
