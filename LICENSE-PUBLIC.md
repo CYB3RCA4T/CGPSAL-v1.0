@@ -1,4 +1,4 @@
-SPDX-License-Identifier: LicenseRef-CYB3RCA4T-GPSAL-1.0
+~~ SPDX-License-Identifier: LicenseRef-CYB3RCA4T-GPSAL-1.0 ~~ **CURRENTLY NOT IN SPDX**
 
 # CYB3RCA4T's General Purpose Source Available License
 ## Version 1.0
