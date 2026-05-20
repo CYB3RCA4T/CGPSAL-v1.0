@@ -67,7 +67,7 @@ Strong protections against fake "official" forks, fraudulent commercial claims, 
 
 ## How to Use
 
-### For Other Developers
+### For Developers
 1. Copy `LICENSE-PUBLIC.md` into your repository as `LICENSE`
 2. Replace all `[PLACEHOLDERS]` with your actual information
 3. Optionally set up `SIGNING.md`, `LICENSE-GRANTED.md`, and `verification-methods.md` for permission verification
