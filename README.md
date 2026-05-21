@@ -9,7 +9,7 @@ A source-available, non-commercial distribution license designed for individual 
 Most licenses force a choice between two extremes:
 
 - **Permissive (MIT, Apache)** — anyone can do anything, including selling your work as their own product
-- **Copyleft (GPL, AGPL)** — forces open-sourcing of everything that touches your code
+- **Copyleft (GPL, AGPL)** — forces open-sourcing of everything that touches your code and still allow commercial use
 
 Neither fits the reality of how individual developers actually think about their work:
 
