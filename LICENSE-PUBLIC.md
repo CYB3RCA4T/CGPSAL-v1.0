@@ -181,14 +181,14 @@ is a core component if any of the following is true:
 
 - Removing it would require substantial re-engineering or replacement
   of core functionality, or
-- It is essential to the primary value or advertised capability of
-  the service — meaning it is a feature or function that is described,
-  marketed, or experienced by users as a primary reason to use the
-  service, or without which the service would not deliver its
-  advertised purpose, or
+- It is described, marketed, or listed as a feature of the service —
+  meaning it appears in the service's public marketing materials,
+  feature listings, pricing pages, or product documentation as
+  functionality the service provides, or without which the service
+  would not deliver its advertised purpose, or
 - Regardless of how the service is marketed, the Software processes,
-  generates, or materially transforms the primary data or output
-  delivered to external users of the service
+  generates, or materially transforms the data or output that external
+  users directly receive from the service
 
 All tests are independent — satisfying any one is sufficient to
 classify the Software as a core component. This applies regardless
@@ -519,8 +519,10 @@ ownership of individual contributions does not confer ownership of,
 or any rights in, the Software as a whole.
 
 By opening a pull request or submitting code intentionally for
-inclusion in the Software, you acknowledge that if your contribution
-is accepted and merged into the Official Repository:
+inclusion in the Software, you acknowledge the contribution terms
+specified in the Official Repository's CONTRIBUTING.md file (if
+present), and that if your contribution is accepted and merged into
+the Official Repository:
 
 - You grant [COPYRIGHT HOLDER] a perpetual, worldwide, non-exclusive,
   irrevocable license to use, modify, distribute, sublicense,
