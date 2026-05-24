@@ -107,6 +107,32 @@ Any individual, regardless of age or legal capacity, may adopt this
 license. License Adoption is a unilateral declaration of terms and
 does not require legal capacity or guardian consent.
 
+**"Materially enabled"** means that the Software contributes
+functionality without which the service cannot operate as
+advertised, or would require replacement by a functionally
+equivalent component to maintain its primary use case.
+
+**"Materially transforms"** means that the Software modifies,
+restructures, or generates output content to a degree that
+significantly affects what the user receives, as distinct from
+trivial, incidental, or transparent data handling.
+
+**"Materially available"** means accessible to free-tier users in
+a way that permits them to exercise the Software's primary function
+at least once per 24-hour period, without a payment requirement or
+purchase prompt at the point of that exercise.
+
+**"Meaningful access"** means the free tier can exercise the core
+functionality of the Software without payment, even if subject to
+reasonable rate or quality limits.
+
+**"Service"** means any product, feature, tier, API endpoint, or
+workflow offered to external users as a distinct unit of
+functionality. Where the Software powers a named feature, tier,
+or endpoint within a larger platform, that feature, tier, or
+endpoint constitutes a "service" independent of how the platform
+as a whole is classified, branded, or priced.
+
 ---
 
 ## Acceptance
@@ -179,13 +205,20 @@ You may not run a paid hosted service, subscription product, or
 commercial API where the Software is a core component. The Software
 is a core component if any of the following is true:
 
-- Removing it would require substantial re-engineering or replacement
-  of core functionality, or
+- Removing it would require rewriting, replacing, or fundamentally
+  restructuring one or more components directly producing the
+  service's output — regardless of the operator's total engineering
+  capacity or organization size. The threshold is assessed relative
+  to the Software's role in the service, not relative to the
+  operator's resources, or
 - It is described, marketed, or listed as a feature of the service —
   meaning it appears in the service's public marketing materials,
   feature listings, pricing pages, or product documentation as
   functionality the service provides, or without which the service
-  would not deliver its advertised purpose, or
+  would not deliver its advertised purpose. For the purposes of this
+  test, marketing materials include any content published, approved,
+  or distributed by or on behalf of the operator, including by
+  third-party resellers or affiliates, or
 - Regardless of how the service is marketed, the Software processes,
   generates, or materially transforms the data or output that external
   users directly receive from the service
@@ -580,10 +613,10 @@ in [COPYRIGHT HOLDER] automatically.
 
 Your rights terminate automatically if you violate this license.
 For most violations, you have 30 days from the date you become aware
-of the violation, or from the date [COPYRIGHT HOLDER] provides written
-notice of the violation (whichever is earlier), to come into
-compliance, after which your rights are fully reinstated as if no
-breach occurred. This cure period does not apply to violations of
+or reasonably should have become aware of the violation, or from the
+date [COPYRIGHT HOLDER] provides written notice of the violation
+(whichever is earlier), to come into compliance, after which your
+rights are fully reinstated as if no breach occurred. This cure period does not apply to violations of
 the Patent Protection section — those terminate rights immediately
 and permanently. Repeat violations after a prior cure — meaning a
 second violation of any provision within 24 months of a prior cure —
@@ -766,6 +799,8 @@ It is not automatically applied to all [COPYRIGHT HOLDER] projects.
 **Open source?**
 No. Source-available. Public, free to use internally, free to distribute
 non-commercially — making money from distribution requires permission.
+
+*This summary is provided for convenience. The full license terms above are legally binding.*
 
 ---
 
